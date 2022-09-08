@@ -75,7 +75,7 @@ Considerando a impotância da sazonalidade os imóveis recomendados foram reagru
   1. Se o preço de compra for **maior** que a mediana regional com sazonalidade: o preço de venda é *10%* acima do valor de compra.
   2. Se o preço de compra for **menor** que a mediana regional com sazonalidade: o preço de venda é *30%* acima do valor de compra.
 
-## 4. Os 5 principais insights dos dados
+## 4. Os 10 principais insights dos dados
   * H1: Imóveis que possuem vista para água, são 30% mais caros, na média.
   * H2: Imóveis com data de construção menor que 1955, são 50% mais baratos, na média.
   * H3: Imóveis sem porão possuem lote 50% maior do que com porão.
