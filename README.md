@@ -77,6 +77,7 @@ Considerando a impotância da sazonalidade os imóveis recomendados foram reagru
 
 ## 4. Os 10 principais insights dos dados
   * H1: Imóveis que possuem vista para água, são 30% mais caros, na média.
+  Verdadeiro. Imóveis com vista para água são em média 212.64% mais caros.
   * H2: Imóveis com data de construção menor que 1955, são 50% mais baratos, na média.
   * H3: Imóveis sem porão possuem lote 50% maior do que com porão.
   * H4: O crescimento do preço dos imóveis Y0Y (Year over Year) é de 10%.
