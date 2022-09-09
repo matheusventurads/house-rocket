@@ -3,6 +3,8 @@
 ## Conhecendo o negócio
 A House Rocket é uma empresa fictícia do ramo imobiliário que tem como principal meio de lucro a compra de casas em boas condições à preços mais baixos para revendas futuras a preços mais elevados. O objetivo deste projeto é utilizar análise de dados para maximixar o lucro obtido através das melhores oportunidades de negócio.
 
+Aplicação web para visualização e análise descritiva dos dados disponível em: https://houses-rocket-analytics.herokuapp.com
+
 ## 1. Questão de negócio
 Encontrar as melhores oportunidades de compra de imóveis do portfólio da House Rocket pois time de negócio não consegue tomar boas decisões de compra sem analisar os dados. O portfólio é muito grande, muito tempo para fazer o trabalho manualmente.
 
