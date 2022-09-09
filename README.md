@@ -76,17 +76,45 @@ Considerando a impotância da sazonalidade os imóveis recomendados foram reagru
   2. Se o preço de compra for **menor** que a mediana regional com sazonalidade: o preço de venda é *30%* acima do valor de compra.
 
 ## 4. Os 10 principais insights dos dados
-  * H1: Imóveis que possuem vista para água, são 30% mais caros, na média.
-  Verdadeiro. Imóveis com vista para água são em média 212.64% mais caros.
-  * H2: Imóveis com data de construção menor que 1955, são 50% mais baratos, na média.
-  * H3: Imóveis sem porão possuem lote 50% maior do que com porão.
-  * H4: O crescimento do preço dos imóveis Y0Y (Year over Year) é de 10%.
-  * H5: Imóveis com 3 banheiros tem um crescimento MoM (Month over Month) de 15%.
-  * H6: Imóveis com 3 quartos tem um crescimento MoM (Month over Month) de 15%.
-  * H7: Imóveis com qualidade de construção acima da média são 20% mais caros, na média.
-  * H8: Imóveis com vista boa ou excelente são 30% mais caros, na média.
-  * H9: Imoveis renovados são 10% mais caros do que os sem reforma.
-  * H10: Imóveis com porão são 10% mais caros, na média.
+  * **H1: Imóveis que possuem vista para água, são 30% mais caros, na média.**
+    
+    Verdadeiro. Imóveis com vista para água são em média 212.64% mais caros.
+    
+  * **H2: Imóveis com data de construção menor que 1955, são 50% mais baratos, na média.**
+
+    Falso. Imóveis construídos após 1955 são em média 0.79% mais caros.
+    
+  * **H3: Imóveis sem porão possuem lote 50% maior do que com porão.**
+
+    Falso. Imóveis sem porão são em média 22.56% mais caros.
+    
+  * **H4: O crescimento do preço dos imóveis Y0Y (Year over Year) é de 10%.**
+
+    Falso. O crescimento do preço YOY é de 0.52%.
+    
+  * **H5: Imóveis com 3 banheiros tem um crescimento MoM (Month over Month) de 15%.**
+
+    Falso. A média do crescimento MoM é de 0.22%.
+    
+  * **H6: Imóveis com 3 quartos tem um crescimento MoM (Month over Month) de 15%.**
+
+    Falso. A média de crescimento MoM é de 0.06%.
+    
+  * **H7: Imóveis com qualidade de construção acima da média são 20% mais caros, na média.**
+
+    Verdadeiro. Imóveis com qualidade de construção acima da média são 93% mais caros na média.
+    
+  * **H8: Imóveis com vista boa ou excelente são 30% mais caros, na média.**
+
+    Verdadeiro. Imóveis com vista boa ou excelente são em média 125% mais caros.
+    
+  * **H9: Imóveis renovados são 10% mais caros do que os sem reforma.**
+
+    Verdadeiro. Imóveis renovados são em média 0.43% mais caros.
+    
+  * **H10: Imóveis com porão são 10% mais caros, na média.**
+
+    Verdadeiro. Imóveis com porão são em média 27% mais caros.
   
 ## 5. Resultados financeiros para o negócio
 Através das estratégias desenvolvidas neste projeto, obtém-se um lucro médio por imóvel de US$ 71.700,00.
