@@ -3,7 +3,7 @@
 ## Conhecendo o negócio
 A House Rocket é uma empresa fictícia do ramo imobiliário que tem como principal meio de lucro a compra de casas em boas condições à preços mais baixos para revendas futuras a preços mais elevados. O objetivo deste projeto é utilizar análise de dados para maximixar o lucro obtido através das melhores oportunidades de negócio.
 
-Aplicação web para visualização e análise descritiva dos dados disponível em: https://houses-rocket-analytics.herokuapp.com
+Aplicação web para visualização e análise descritiva dos dados disponível em [Streamlit](https://matheusventurads-house-rocket-app-dashboard-btndu7.streamlit.app/).
 
 ## 1. Questão de negócio
 Encontrar as melhores oportunidades de compra de imóveis do portfólio da House Rocket pois time de negócio não consegue tomar boas decisões de compra sem analisar os dados. O portfólio é muito grande, muito tempo para fazer o trabalho manualmente.
@@ -56,7 +56,7 @@ O planejamento foi dividido em três etapas:
 ### 3.1. Produto Final
 * Tabela com os imóveis a serem comprados.
 * Tabela com os valores dos imóveis para venda.
-* Aplicativo em nuvem com análise explanatória dos dados.
+* Aplicativo em nuvem com análise explanatória dos dados (plataforma Streamlit).
 
 ### 3.2. Ferramentas
 * Python 3.10
@@ -121,8 +121,11 @@ Considerando a impotância da sazonalidade os imóveis recomendados foram reagru
 ## 5. Resultados financeiros para o negócio
 Através das estratégias desenvolvidas neste projeto, obtém-se um lucro médio por imóvel de US$ 71.700,00.
 
+E para facilitar o acesso a informação, com o desenvolvimento do [Dashboard](https://matheusventurads-house-rocket-app-dashboard-btndu7.streamlit.app/) os stakeholders podem acompanhar e definir parâmetros para encontrar novos Insights.
+
 ## 6. Conclusão e próximos passos
 O projeto foi capaz de responder as perguntas de negócio definidas, com boas indicações no setor considerando o modelo de negócio da empresa. Assim como possíveis insights através das hipotéses analisadas. Contudo, há oportunidades de melhoria que podem ser refinadas em ciclos futuros, sendo:
 
 * Incluir os insights gerados nas hipóteses nas métricas utilizadas para compra e venda dos imóveis.
 * Analisar os atributos que mais influenciam no preço através de Modelos de Regressão Linear.
+* Aplicar modelos de Machine Learning para prever o preço dos imóveis.
